@@ -1,0 +1,16 @@
+{
+  "name": "node.js1",
+  "version": "1.0.0",
+  "description": "Nodejs tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node Rquest1.js",
+    "start-server": "node Rquest1.js"
+  },
+  "author": "Preeti Kurmi",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
